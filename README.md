@@ -18,7 +18,7 @@
 
 
 
-# Ссылки на ассеты 
+# Ссылки на все ассеты 
 https://sketchfab.com/3d-models/band-key-c54a374f085d4732a14351a5845dd80a
 
 https://sketchfab.com/3d-models/canister-fd4f574707fb45dba6eaa7a683d3bc02
@@ -72,3 +72,4 @@ https://assetstore.unity.com/packages/3d/props/industrial/modular-pipeline-pack-
 https://assetstore.unity.com/packages/tools/modeling/gearfactory-111219
 
 https://assetstore.unity.com/packages/3d/environments/low-poly-rock-pack-57874
+
